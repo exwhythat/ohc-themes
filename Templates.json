@@ -1,0 +1,23 @@
+{
+	"providers": [
+		{
+			"name": "edge",
+			"descriptions": "For edge datasource",
+			"templates": [
+				{
+					"templateName": "Best from exist",
+					"path": "/edge/test.html"
+				}
+			],
+			"total": "5"
+		},
+		{
+			"name": "sf",
+			"descriptions": "For salesforce datasource"
+		},
+		{
+			"name": "crm",
+			"descriptions": "For crm datasource"
+		}
+	]
+}
