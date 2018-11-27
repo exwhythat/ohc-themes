@@ -5,19 +5,24 @@
 			"descriptions": "For edge datasource",
 			"templates": [
 				{
-					"templateName": "Best from exist",
-					"path": "/edge/test.html"
+					"templateName": "Two column simple layout template",
+					"path": "/edge/2col_simple.html"
+				},
+				{
+					"templateName": "Grid layout template",
+					"path": "/edge/grid_view_template.html"
 				}
-			],
-			"total": "5"
+			]
 		},
 		{
 			"name": "sf",
-			"descriptions": "For salesforce datasource"
+			"descriptions": "For salesforce datasource",
+			"templates": []
 		},
 		{
 			"name": "crm",
-			"descriptions": "For crm datasource"
+			"descriptions": "For crm datasource",
+			"templates": []
 		}
 	]
 }
