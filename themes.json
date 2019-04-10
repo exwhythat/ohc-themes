@@ -6,14 +6,14 @@
 			"mainEntities": ["listing", "property"],
 			"templates": [
 				{
-					"templateName": "Two column simple layout template",
-					"mainEntity": "listing"
-					"path": "/edge/2col_simple"
+					"themeName": "Two column simple layout theme",
+					"mainEntity": "listing",
+					"themePath": "/edge/2col_simple"
 				},
 				{
-					"templateName": "Grid layout template",
+					"themeName": "Grid layout theme",
 					"mainEntity": "property",
-					"path": "/edge/grid_view",
+					"themePath": "/edge/grid_view"
 				}
 			]
 		},
