@@ -3,25 +3,30 @@
 		{
 			"name": "edge",
 			"descriptions": "For edge datasource",
+			"mainEntities": ["listing", "property"],
 			"templates": [
 				{
 					"templateName": "Two column simple layout template",
-					"path": "/edge/2col_simple.html"
+					"mainEntity": "listing"
+					"path": "/edge/2col_simple"
 				},
 				{
 					"templateName": "Grid layout template",
-					"path": "/edge/grid_view_template.html"
+					"mainEntity": "property",
+					"path": "/edge/grid_view",
 				}
 			]
 		},
 		{
 			"name": "sf",
 			"descriptions": "For salesforce datasource",
+			"mainEntities": [],
 			"templates": []
 		},
 		{
 			"name": "crm",
 			"descriptions": "For crm datasource",
+			"mainEntities": [],
 			"templates": []
 		}
 	]
