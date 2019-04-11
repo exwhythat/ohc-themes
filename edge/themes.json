@@ -1,0 +1,18 @@
+{
+	"mainEntities": [
+		"listing",
+		"property"
+	],
+	"themes": [
+		{
+			"themeName": "Two column simple layout theme",
+			"mainEntity": "listing",
+			"themePath": "/edge/2col_simple"
+		},
+		{
+			"themeName": "Grid layout theme",
+			"mainEntity": "property",
+			"themePath": "/edge/grid_view"
+		}
+	]
+}
