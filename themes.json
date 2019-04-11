@@ -4,7 +4,7 @@
 			"name": "edge",
 			"descriptions": "For edge datasource",
 			"mainEntities": ["listing", "property"],
-			"templates": [
+			"themes": [
 				{
 					"themeName": "Two column simple layout theme",
 					"mainEntity": "listing",
@@ -21,13 +21,13 @@
 			"name": "sf",
 			"descriptions": "For salesforce datasource",
 			"mainEntities": [],
-			"templates": []
+			"themes": []
 		},
 		{
 			"name": "crm",
 			"descriptions": "For crm datasource",
 			"mainEntities": [],
-			"templates": []
+			"themes": []
 		}
 	]
 }
