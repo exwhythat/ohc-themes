@@ -5,14 +5,9 @@
 	],
 	"themes": [
 		{
-			"themeName": "Two column simple layout theme",
+			"themeName": "Listing Theme with Availabilities",
 			"mainEntity": "listing",
-			"themePath": "/edge/2col_simple"
-		},
-		{
-			"themeName": "Grid layout theme",
-			"mainEntity": "property",
-			"themePath": "/edge/grid_view"
+			"themePath": "/edge/listing_theme_with_availabilities"
 		}
 	]
 }
