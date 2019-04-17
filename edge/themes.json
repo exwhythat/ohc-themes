@@ -13,6 +13,11 @@
 			"themeName": "Test theme Listing with Availabilities",
 			"mainEntity": "property",
 			"themePath": "/edge/testing_the_upload_of_theme_anton"
+		},
+		{
+			"themeName": "Test theme Listing with Availabilities_test",
+			"mainEntity": "availability",
+			"themePath": "/edge/testing_the_upload_of_theme_anton_availability"
 		}
 	]
 }
